@@ -1,6 +1,6 @@
 {
     "name": "@geometryzen/fast-components",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "My Library",
     "main": "dist/cjs/index.js",
     "types": "dist/index.d.ts",
