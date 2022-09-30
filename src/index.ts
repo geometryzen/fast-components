@@ -1,2 +1,2 @@
-export { allComponents, baseLayerLuminance, provideFASTDesignSystem, StandardLuminance, Switch } from '@microsoft/fast-components';
+export * from '@microsoft/fast-components';
 
