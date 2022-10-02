@@ -7,3 +7,5 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+
+@microsoft/fast-components as a system module and bundled.
