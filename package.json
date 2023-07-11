@@ -1,6 +1,6 @@
 {
     "name": "@geometryzen/fast-components",
-    "version": "0.9.6",
+    "version": "0.9.7",
     "description": "@microsoft/fast-components as a system module",
     "browser": "./dist/system/index.min.js",
     "types": "./dist/index.d.ts",
